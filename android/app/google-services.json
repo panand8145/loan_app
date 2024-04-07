@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243993249359",
+    "project_id": "loan-5b0fa",
+    "storage_bucket": "loan-5b0fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243993249359:android:dc647536585a2ba42e0c3a",
+        "android_client_info": {
+          "package_name": "com.meshworks.meshwork_practical_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB37YCVPMw6csUC_syun9U0g0MXcSdEiPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
